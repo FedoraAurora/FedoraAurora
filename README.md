@@ -1,0 +1,4 @@
+- 14.y.o from the uncool unfunky country Russia.
+- Languages (the spoken ones): English, Russian
+- Languages (the programming ones): Python, Lua, a bit of Ruby and an itsy bitsy of C#
+- Massive fan of old-school shooters and strategy games (Warcraft 1 and Doom 1 as examples)
